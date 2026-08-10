@@ -72,6 +72,16 @@ Customer segmentation project using exploratory data analysis and K-means cluste
 
 ---
 
+## Data & Analytics Certifications
+
+- Google Data Analytics Professional Certificate — Google
+- Tableau Business Intelligence Analyst Professional Certificate — Tableau Learning Partner
+- Meta Data Analyst Professional Certificate — Meta
+- Programming for Python Data Science: Principles to Practice Specialization — Duke University
+- CertNexus Certified Data Science Practitioner Professional Certificate — CertNexus
+
+---
+
 ## Positions I Am Pursuing
 
 I am interested in opportunities including:
@@ -93,8 +103,8 @@ I am open to remote, hybrid, and relocation opportunities.
 ## Connect With Me
 
 - [LinkedIn](linkedin.com/in/lisaphillips106)
-- [Download My Résumé](Lisa_Phillips__Resume.pdf)
-- [View My GitHub Projects](https://github.com/Beachblondie106)
+- [Download My Résumé](Lisa_Phillips_Resume_.pdf)
+- [View My GitHub Projects](https://github.com/beachblondie106-coder?tab=repositories)
 
 ---
 
