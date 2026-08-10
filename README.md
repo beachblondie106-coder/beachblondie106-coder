@@ -50,7 +50,7 @@ Analysis of Medicare provider utilization and payment data to identify cost tren
 
 **Tools:** Python, pandas, SQL, Excel, Tableau
 
-[View Project](./Medicare%20Claims%20Utilization%20%26%20Cost%20Analytics.pptx)
+[View Project](Medicare Claims Utilization & Cost Analytics (1).pptx)
 
 ---
 
@@ -60,7 +60,7 @@ Customer segmentation project using exploratory data analysis and K-means cluste
 
 **Tools:** Python, pandas, scikit-learn, Matplotlib
 
-[View Project](./Using%20ML%20to%20Improve%20Customer%20Purchasing%20Decisions.pptx)
+[View Project](Using ML to Improve Customer Purchasing Decisions.pptx)
 
 ---
 
@@ -103,7 +103,7 @@ I am open to remote, hybrid, and relocation opportunities.
 ## Connect With Me
 
 - [LinkedIn](linkedin.com/in/lisaphillips106)
-- [Download My Résumé](Lisa_Phillips_Resume_.pdf)
+- [Download My Résumé](Lisa_A_Phillips_Resume_.pdf)
 - [View My GitHub Projects](https://github.com/beachblondie106-coder?tab=repositories)
 
 ---
