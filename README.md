@@ -1,111 +1,51 @@
-# Beachblondie106
-Healthcare and Medicare analytics portfolio showcasing data analysis and visualization projects
+# Hi, I’m Lisa A. Phillips
 
+## Healthcare Analytics | Medicare Operations | Business Intelligence
 
-# Hi, I’m Lisa A. Phillips 👋
+I’m a healthcare and analytics professional with 15+ years of experience in Medicare operations, sales administration, compliance, reporting, and cross-functional leadership.
 
-## Healthcare Data Analyst | Business Analyst | Healthcare Analytics Professional
+I combine healthcare industry expertise with Tableau, Excel, SQL, Python, and Power BI to analyze performance, identify trends, improve processes, and translate complex data into actionable business recommendations.
 
-I am a healthcare and analytics professional with more than 15 years of experience in Medicare operations, sales administration, compliance, process improvement, and cross-functional leadership.
+### Core Skills
 
-After building my career on the health insurance and payer side, I am expanding my expertise into healthcare data analytics. I use data to identify trends, evaluate performance, improve processes, and translate complex findings into practical business recommendations.
-
-My portfolio focuses on healthcare utilization, Medicare data, customer behavior, business performance, predictive modeling, and data visualization.
-
----
-
-## Analytics Tools
-
-- **Data Analysis:** Excel, Google Sheets, Python, pandas, NumPy
-- **Databases:** SQL, SQLite
-- **Visualization:** Tableau, Power BI, Matplotlib
-- **Machine Learning:** scikit-learn, classification, regression, clustering
-- **Business Skills:** Healthcare analytics, Medicare operations, process improvement, compliance, financial analysis, stakeholder communication
-
----
-
-## Healthcare and Medicare Expertise
-
-My professional background includes:
-
-- Medicare sales operations and administration
-- Healthcare payer operations
-- Regulatory compliance and risk management
-- Performance reporting and data governance
-- Process optimization
-- Cross-functional collaboration
-- Provider and stakeholder relationship management
-- Identifying growth and operational improvement opportunities
-- Translating healthcare data into business insights
-
-I combine healthcare industry knowledge with analytical tools to evaluate utilization, costs, performance trends, access barriers, and opportunities for improvement.
-
----
+* Healthcare and Medicare analytics
+* Tableau, Excel, Power BI, SQL, and Python
+* KPI reporting and dashboard development
+* Utilization, cost, and market analysis
+* Data visualization and executive presentations
+* Process improvement and regulatory compliance
+* Stakeholder and provider relationship management
 
 ## Featured Projects
 
-### CMS Medicare Claims Cost and Utilization Analysis
+### [CMS Medicare Utilization & Cost Analysis](https://github.com/beachblondie106-coder/CMS-Medicare-Utilization-Cost-Analysis)
 
-Analysis of Medicare provider utilization and payment data to identify cost trends, high-volume services, geographic variation, and provider-level patterns.
+Analysis of Medicare Part B utilization, payment, and specialty data designed to identify cost patterns, service-volume trends, and performance differences.
 
-**Tools:** Python, pandas, SQL, Excel, Tableau
+**Tools:** Tableau and Excel
+**Deliverables:** Interactive dashboard, analytical dataset, and executive presentation
 
-[View Project](https://github.com/beachblondie106-coder/CMS-Medicare-Utilization-Cost-Analysis)
+### [Online Retail Customer Segmentation](https://github.com/beachblondie106-coder/Online-Retail-Customer-Segmentation)
 
----
+Customer segmentation analysis using exploratory data analysis and K-means clustering to identify purchasing patterns and actionable customer groups.
 
-### Online Retail Customer Segmentation
+**Methods:** Data preparation, exploratory analysis, classification, regression, and clustering
 
-Customer segmentation project using exploratory data analysis and K-means clustering to identify meaningful customer groups and purchasing patterns.
+## Professional Background
 
-**Tools:** Python, pandas, scikit-learn, Matplotlib
+My experience includes Medicare sales operations, healthcare payer administration, data governance, performance reporting, compliance, process optimization, and executive-level communication. I bring the business context needed to turn analytical findings into practical healthcare decisions.
 
-[View Project](https://github.com/beachblondie106-coder/Online-Retail-Customer-Segmentation)
+## Education & Certifications
 
----
-
-## Education
-
-- **MBA in Business Finance and Project Management** — Lakeland University
-- **B.A. in Marketing and Business Administration** — Lakeland University
-- **Graduate Certificate in Public Affairs Leadership** — University of Wisconsin–Madison
-
----
-
-## Data & Analytics Certifications
-
-- Google Data Analytics Professional Certificate — Google
-- Tableau Business Intelligence Analyst Professional Certificate — Tableau Learning Partner
-- Meta Data Analyst Professional Certificate — Meta
-- Programming for Python Data Science: Principles to Practice Specialization — Duke University
-- CertNexus Certified Data Science Practitioner Professional Certificate — CertNexus
-
----
-
-## Positions I Am Pursuing
-
-I am interested in opportunities including:
-
-- Healthcare Data Analyst
-- Business Data Analyst
-- Healthcare Business Analyst
-- Medicare Data Analyst
-- Provider Analytics Analyst
-- Business Intelligence Analyst
-- Healthcare Strategy Analyst
-- Business Development and Market Analytics
-- Reporting and Operations Analyst
-
-I am open to remote, hybrid, and relocation opportunities.
-
----
+* MBA in Business Finance and Project Management
+* B.A. in Marketing and Business Administration
+* Graduate Certificate in Public Affairs Leadership
+* Professional training in data analytics, Tableau, Python, and data science
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/lisaphillips106)
-- [Download My Résumé](Lisa_A_Phillips_Resume_.pdf)
-- [View My GitHub Projects](https://github.com/beachblondie106-coder?tab=repositories)
+* [LinkedIn](https://www.linkedin.com/in/lisaphillips106)
+* [Download My Resume](Lisa_A_Phillips_Resume_.pdf)
+* [View My Repositories](https://github.com/beachblondie106-coder?tab=repositories)
 
----
-
-> Turning healthcare experience and complex data into meaningful business insights.
+**Open to remote, hybrid, and relocation opportunities in healthcare analytics, business intelligence, healthcare strategy, and business analysis.**
