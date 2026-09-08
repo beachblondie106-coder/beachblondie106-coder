@@ -28,20 +28,15 @@ Independent public-data portfolio case study examining service-line performance,
 
 *This independent portfolio project was not commissioned, sponsored, reviewed, or endorsed by Erlanger and does not contain confidential internal data.*
 
-### [CMS Medicare Part B Utilization & Cost Analysis](https://github.com/beachblondie106-coder/CMS-Medicare-Utilization-Cost-Analysis)
+### [CMS Medicare Program Analytics](https://github.com/beachblondie106-coder/CMS-Medicare-Program-Analytics)
 
-Analysis of national Medicare Part B utilization, payments, and specialty-level cost patterns from 2022 through 2024.
+Independent portfolio project examining Medicare enrollment and beneficiary demographics, Original Medicare spending and utilization, Part B services and payments, quality and Star Ratings, and provider enrollment through five Tableau dashboards.
 
 * **Tools:** Tableau and Excel
-* **Methods:** Multi-year trend analysis, KPI development, K-means segmentation, and log-log regression
-* **Focus:** Distinguishing high-volume specialties from high-cost and high-intensity specialties while clearly documenting limitations
+* **Deliverables:** Five-dashboard interactive Tableau workbook, dashboard PDF, source data, packaged workbook, and portfolio presentation
+* **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries)
 
-### [Online Retail Customer Segmentation](https://github.com/beachblondie106-coder/Online-Retail-Customer-Segmentation)
-
-Customer analytics project using exploratory data analysis and K-means clustering to identify purchasing patterns and actionable customer groups.
-
-* **Tools:** Python, pandas, and machine learning
-* **Methods:** Data preparation, exploratory analysis, classification, regression, and clustering
+*This individual portfolio project uses public CMS data and analyst-prepared files. It has no affiliation with the Centers for Medicare & Medicaid Services (CMS) and was not commissioned, sponsored, reviewed, or endorsed by CMS.*
 
 ## Professional Background
 
