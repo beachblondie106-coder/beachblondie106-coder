@@ -18,6 +18,16 @@ I combine healthcare industry knowledge with Tableau, Excel, SQL, Python, and Po
 
 ## Featured Projects
 
+### [Texas Healthcare Workforce Access & Community Need](https://github.com/beachblondie106-coder/texas-healthcare-workforce-access)
+
+Independent public-data portfolio project analyzing county-level healthcare workforce shortages, medically underserved areas, facility access, and community health needs across Texas using CDC, HRSA, and AHRF data.
+
+* **Tools:** Power BI, Power Query, DAX, SQL, and Excel/CSV
+* **Deliverables:** Multi-page interactive Power BI dashboard, dashboard PDF, executive presentation, methodology and data documentation, Power Query scripts, and a complementary relational SQL implementation
+* **Key analysis:** Primary care, dental, and mental health shortages; provider and hospital-bed rates; rural and urban access; county benchmarks; and community health indicators
+
+*This independent portfolio project uses publicly available data and is not affiliated with, endorsed by, or sponsored by CDC, HRSA, CMS, Texas Health and Human Services, or any healthcare organization.*
+
 ### [Erlanger Health System Strategic Analytics](https://github.com/beachblondie106-coder/Erlanger-Service-Line-Growth-Analysis)
 
 Independent public-data portfolio case study examining service-line performance, Original Medicare market position, community access, quality, patient experience, and publicly posted negotiated rates in the Chattanooga service area.
