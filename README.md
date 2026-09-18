@@ -18,6 +18,16 @@ I combine healthcare industry knowledge with Tableau, Excel, SQL, Python, and Po
 
 ## Featured Projects
 
+### [Healthcare Revenue Cycle Analytics](https://github.com/beachblondie106-coder/Healthcare-Revenue-Cycle)
+
+Independent synthetic-data portfolio project analyzing claims reimbursement, denials, underpayments, accounts-receivable aging, payer performance, and facility-level revenue-cycle results across a fictional multi-state healthcare organization.
+
+* **Tools:** Power BI, Power Query, DAX, Python, SQL, SQLite, and Excel/CSV
+* **Deliverables:** Three-page interactive Power BI dashboard, dashboard PDF, reproducible Python pipeline, relational SQL schema and analytical views, DAX reference, data dictionary, methodology, KPI definitions, and QA documentation
+* **Key analysis:** Payment realization, denial causes, underpayment exposure, aging risk, facility and payer comparisons, rule-based follow-up prioritization, and responsible denial-risk model governance
+
+*This independent portfolio project uses constructed synthetic data and fictional facilities, payers, patients, and claims. It contains no protected health information and is not affiliated with or endorsed by any healthcare organization.*
+
 ### [Texas Healthcare Workforce Access & Community Need](https://github.com/beachblondie106-coder/texas-healthcare-workforce-access)
 
 Independent public-data portfolio project analyzing county-level healthcare workforce shortages, medically underserved areas, facility access, and community health needs across Texas using CDC, HRSA, and AHRF data.
