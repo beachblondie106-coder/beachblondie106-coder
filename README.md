@@ -1,20 +1,22 @@
 # Hi, I’m Lisa A. Phillips
 
-## Healthcare Analytics | Medicare Operations | Business Intelligence
+## Healthcare Analytics | Business Intelligence | Commercial Operations | Medicare
 
-I’m a healthcare analytics professional with 15+ years of experience in Medicare operations, sales administration, compliance, reporting, and cross-functional leadership.
+I’m a healthcare analytics and commercial operations professional with 20+ years of experience across Medicare, health insurance, claims, benefits, sales support, reporting, compliance, and cross-functional leadership.
 
-I combine healthcare industry knowledge with Tableau, Excel, SQL, Python, and Power BI to analyze performance, identify trends, improve processes, and translate complex data into clear, actionable business recommendations.
+I combine deep healthcare industry knowledge with business intelligence, CRM reporting, KPI development, data validation, and process improvement to translate complex data into clear, actionable recommendations for leaders and operational teams.
 
 ### Core Skills
 
-* Healthcare and Medicare analytics
-* Tableau, Excel, Power BI, SQL, and Python
-* KPI reporting and dashboard development
+* Healthcare, Medicare, provider, and payer analytics
+* Tableau and Power BI dashboard development
+* Power Query, DAX, and advanced Excel analysis
+* Salesforce CRM reporting and data management
+* KPI reporting, ETL, data validation, and data governance
 * Utilization, cost, market, and service-line analysis
-* Data visualization and executive presentations
-* Process improvement and regulatory compliance
-* Stakeholder and provider relationship management
+* Commercial operations, process improvement, and regulatory compliance
+* Cross-functional leadership and stakeholder communication
+* Applied SQL, SQLite, Python, pandas, and scikit-learn through coursework and portfolio projects
 
 ## Featured Projects
 
@@ -23,8 +25,8 @@ I combine healthcare industry knowledge with Tableau, Excel, SQL, Python, and Po
 Independent synthetic-data portfolio project analyzing claims reimbursement, denials, underpayments, accounts-receivable aging, payer performance, and facility-level revenue-cycle results across a fictional multi-state healthcare organization.
 
 * **Tools:** Power BI, Power Query, DAX, Python, SQL, SQLite, and Excel/CSV
-* **Deliverables:** Three-page interactive Power BI dashboard, dashboard PDF, reproducible Python pipeline, relational SQL schema and analytical views, DAX reference, data dictionary, methodology, KPI definitions, and QA documentation
-* **Key analysis:** Payment realization, denial causes, underpayment exposure, aging risk, facility and payer comparisons, rule-based follow-up prioritization, and responsible denial-risk model governance
+* **Highlights:** Payment realization, denial causes, underpayment exposure, aging risk, facility and payer comparisons, rule-based follow-up prioritization, and responsible denial-risk model governance
+* **Deliverables:** Interactive Power BI dashboard, dashboard PDF, reproducible Python pipeline, relational SQL schema and analytical views, DAX reference, data dictionary, methodology, KPI definitions, and QA documentation
 
 *This independent portfolio project uses constructed synthetic data and fictional facilities, payers, patients, and claims. It contains no protected health information and is not affiliated with or endorsed by any healthcare organization.*
 
@@ -33,8 +35,8 @@ Independent synthetic-data portfolio project analyzing claims reimbursement, den
 Independent public-data portfolio project analyzing county-level healthcare workforce shortages, medically underserved areas, facility access, and community health needs across Texas using CDC, HRSA, and AHRF data.
 
 * **Tools:** Power BI, Power Query, DAX, SQL, and Excel/CSV
-* **Deliverables:** Multi-page interactive Power BI dashboard, dashboard PDF, executive presentation, methodology and data documentation, Power Query scripts, and a complementary relational SQL implementation
-* **Key analysis:** Primary care, dental, and mental health shortages; provider and hospital-bed rates; rural and urban access; county benchmarks; and community health indicators
+* **Highlights:** Primary care, dental, and mental health shortages; provider and hospital-bed rates; rural and urban access; county benchmarks; and community health indicators
+* **Deliverables:** Interactive Power BI dashboard, dashboard PDF, executive presentation, methodology and data documentation, Power Query scripts, and complementary relational SQL implementation
 
 *This independent portfolio project uses publicly available data and is not affiliated with, endorsed by, or sponsored by CDC, HRSA, CMS, Texas Health and Human Services, or any healthcare organization.*
 
@@ -43,24 +45,24 @@ Independent public-data portfolio project analyzing county-level healthcare work
 Independent public-data portfolio case study examining service-line performance, Original Medicare market position, community access, quality, patient experience, and publicly posted negotiated rates in the Chattanooga service area.
 
 * **Tools:** Tableau and Excel
-* **Deliverables:** Five-dashboard interactive Tableau workbook, dashboard portfolio, data dictionary, packaged workbook, and executive strategic-analysis presentation
+* **Highlights:** Market share, service-line trends, quality and patient experience, community access, utilization, costs, and payer-rate comparisons
 * **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/ErlangerHealthSystemStrategicAnalytics/ServiceLinePerformance)
 
 *This independent portfolio project was not commissioned, sponsored, reviewed, or endorsed by Erlanger and does not contain confidential internal data.*
 
 ### [CMS Medicare Program Analytics](https://github.com/beachblondie106-coder/CMS-Medicare-Program-Analytics)
 
-Independent portfolio project examining Medicare enrollment and beneficiary demographics, Original Medicare spending and utilization, Part B services and payments, quality and Star Ratings, and provider enrollment through five Tableau dashboards.
+Independent public-data portfolio project examining Medicare enrollment and beneficiary demographics, Original Medicare spending and utilization, Part B services and payments, quality and Star Ratings, and provider enrollment.
 
 * **Tools:** Tableau and Excel
-* **Deliverables:** Five-dashboard interactive Tableau workbook, dashboard PDF, source data, packaged workbook, and portfolio presentation
+* **Highlights:** Enrollment trends, claims utilization, Medicare spending, provider networks, quality measures, Star Ratings, and Part B cost patterns
 * **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries)
 
 *This individual portfolio project uses public CMS data and analyst-prepared files. It has no affiliation with the Centers for Medicare & Medicaid Services (CMS) and was not commissioned, sponsored, reviewed, or endorsed by CMS.*
 
 ## Professional Background
 
-My experience includes Medicare sales operations, healthcare payer administration, data governance, performance reporting, compliance, process optimization, and executive-level communication. I bring the business context needed to turn analytical findings into practical healthcare decisions.
+My experience includes Medicare sales and commercial operations, healthcare payer administration, Salesforce CRM reporting, data governance, performance reporting, compliance, process optimization, and executive-level communication. I bring the business context needed to turn analytical findings into practical healthcare decisions.
 
 ## Education & Training
 
@@ -75,4 +77,4 @@ My experience includes Medicare sales operations, healthcare payer administratio
 * [Download My Resume](Lisa_Phillips_Healthcare_Analytics_Resume.pdf)
 * [View My Repositories](https://github.com/beachblondie106-coder?tab=repositories)
 
-**Open to remote, hybrid, and relocation opportunities in healthcare analytics, business intelligence, healthcare strategy, and business analysis.**
+**Based in Ocala, Florida, and open to remote, hybrid, or relocation opportunities in healthcare analytics, business intelligence, commercial operations, healthcare strategy, and business analysis.**
