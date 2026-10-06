@@ -31,9 +31,3 @@ I translate complex operational data into clear priorities for leaders and front
 I pair domain context with disciplined analysis: define the decision, validate the data, make tradeoffs visible, and communicate recommendations in a form that leaders can act on. My portfolio reflects both executive reporting and operational investigation, with documentation of methods, assumptions, and limitations.
 
 > Portfolio projects use either public data or explicitly labeled synthetic data. They contain no protected health information, confidential employer data, or claims of organizational affiliation.
-
-## Current Focus
-
-Open to senior healthcare analytics, business intelligence, commercial operations, strategy, and business-analysis roles—remote, hybrid, or relocation.
-
-**Based in Ocala, Florida**
