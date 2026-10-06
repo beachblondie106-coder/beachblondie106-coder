@@ -1,6 +1,6 @@
 # Lisa A. Phillips, MBA
 
-## Healthcare Analytics & Commercial Operations | Medicare | Business Intelligence
+## Healthcare Operations & Analytics | Commercial, Medicare & Medicaid | Business Intelligence
 
 Healthcare analytics and commercial-operations professional with 20+ years of experience across Medicare, health insurance, claims, benefits, sales support, reporting, compliance, and cross-functional leadership.
 
