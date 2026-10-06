@@ -30,6 +30,16 @@ Independent synthetic-data portfolio project analyzing claims reimbursement, den
 
 *This independent portfolio project uses constructed synthetic data and fictional facilities, payers, patients, and claims. It contains no protected health information and is not affiliated with or endorsed by any healthcare organization.*
 
+### [Healthcare Sales Operations: Referral Performance & Workflow Improvement](https://github.com/beachblondie106-coder/Healthcare-Sales-Operations)
+
+Independent synthetic-data portfolio case study examining referral volume, scheduling progression, follow-up workload, partner-account engagement, and territory performance across a fictional outpatient-care organization.
+
+* **Tools:** Power BI Desktop, Power Query, DAX, SQL, SQLite, Python, and Excel/CSV
+* **Highlights:** Referral deduplication, status normalization, 30-day scheduling cohorts, follow-up and workload monitoring, territory-level performance, sales activity analysis, and data-quality exception tracking
+* **Deliverables:** Three-page Power BI Desktop report, reproducible Python and SQL pipeline, ready-to-open SQLite database, validation evidence, data documentation, workflow playbook, PowerPoint leadership briefing, and GitHub report previews
+
+*This independent portfolio project uses constructed synthetic data and fictional organizations, accounts, referral records, and operational activity. It contains no protected health information and is not affiliated with or endorsed by any healthcare organization.*
+
 ### [Texas Healthcare Workforce Access & Community Need](https://github.com/beachblondie106-coder/texas-healthcare-workforce-access)
 
 Independent public-data portfolio project analyzing county-level healthcare workforce shortages, medically underserved areas, facility access, and community health needs across Texas using CDC, HRSA, and AHRF data.
