@@ -21,7 +21,7 @@ I translate complex operational data into clear priorities for leaders and front
 | Project | Business focus | Tools |
 | --- | --- | --- |
 | [Healthcare Revenue Cycle Analytics](https://github.com/beachblondie106-coder/Healthcare-Revenue-Cycle) | Denials, underpayments, AR aging, payer performance, and facility-level prioritization | Power BI, DAX, SQL, Python |
-| [Healthcare Sales Operations](https://github.com/beachblondie106-coder/Healthcare-Sales-Operations) | Referral progression, follow-up workload, territory performance, and account engagement | Power BI, SQL, SQLite, Python |
+| [Healthcare Sales Operations](https://github.com/beachblondie106-coder/Healthcare-Sales-Operations) | Referral progression, follow-up workload, territory performance, and account engagement | Power BI, DAX, SQL, SQLite, Python |
 | [Texas Healthcare Workforce Access](https://github.com/beachblondie106-coder/Texas-Healthcare-Workforce-Access) | Workforce shortages, community need, access, and county benchmarking | Power BI, DAX, SQL |
 | [Erlanger Strategic Analytics](https://github.com/beachblondie106-coder/Erlanger-Service-Line-Growth-Analysis) | Service-line performance, market position, quality, and access | Tableau, Excel |
 | [CMS Medicare Program Analytics](https://github.com/beachblondie106-coder/CMS-Medicare-Program-Analytics) | Enrollment, utilization, quality, provider participation, and Part B cost | Tableau, Excel |
