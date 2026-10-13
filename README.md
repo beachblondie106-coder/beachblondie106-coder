@@ -2,19 +2,19 @@
 
 ## Healthcare Operations & Analytics | Commercial, Medicare & Medicaid | Business Intelligence
 
-Healthcare analytics and commercial-operations professional with 20+ years of experience across Medicare, health insurance, claims, benefits, sales support, reporting, compliance, and cross-functional leadership.
+Healthcare operations and analytics professional with 20+ years of experience in Medicare, health insurance, claims, benefits, sales support, reporting, compliance, and cross functional leadership.
 
-I translate complex operational data into clear priorities for leaders and frontline teams—improving visibility, supporting sound decisions, and strengthening execution.
+I use data to help leaders and frontline teams see what needs attention, understand the options, and decide what to do next.
 
 [LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [Resume](Lisa_Phillips_Healthcare_Analytics_Resume.pdf)
 
 ## What I Bring
 
-- Healthcare, Medicare, provider, payer, and revenue-cycle analytics
-- Executive KPI reporting, dashboards, data validation, and governance
-- Commercial and sales-operations reporting, CRM data management, and process improvement
+- Healthcare, Medicare, provider, payer, and revenue cycle analytics
+- KPI reporting, dashboards, data validation, and governance
+- Commercial and sales operations reporting, CRM data management, and process improvement
 - Power BI, Tableau, Power Query, DAX, advanced Excel, SQL, SQLite, Python, and pandas
-- Cross-functional partnership across operations, finance, sales, compliance, and leadership
+- Partnership across operations, finance, sales, compliance, and leadership
 
 ## Selected Portfolio Work
 
@@ -29,6 +29,6 @@ I translate complex operational data into clear priorities for leaders and front
 
 ## How I Work
 
-I pair domain context with disciplined analysis: define the decision, validate the data, make tradeoffs visible, and communicate recommendations in a form that leaders can act on. My portfolio reflects both executive reporting and operational investigation, with documentation of methods, assumptions, and limitations.
+I start with the decision that needs to be made, check the data, and present the results in a clear format. My projects include both executive reporting and operational analysis, along with the methods, assumptions, and limits behind the work.
 
 > Portfolio projects use either public data or explicitly labeled synthetic data. They contain no protected health information, confidential employer data, or claims of organizational affiliation.
